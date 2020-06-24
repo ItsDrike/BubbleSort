@@ -1,6 +1,6 @@
 # BubbleSort
 
-This uses **pygame** to visualize Bubble Sort algorithm.
+This uses **pygame** to visualize Bubble Sort algorithm.<br>
 I decided to use line length as distinctive feature which will get sorted for best list/array visualization.
 
 ## Final result
